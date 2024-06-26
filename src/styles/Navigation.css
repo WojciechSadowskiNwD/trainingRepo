@@ -1,0 +1,40 @@
+nav.main {
+	padding: 0 30px 30px 0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+nav.main a {
+	display: block;
+	text-decoration: none;
+	color: #000;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding: 10px;
+    transition: .3s;
+}
+nav.main a:hover {
+    transform: translateX(20px);
+}
+nav.main a.active {
+    transform: translateX(0);
+    border-left: 10px solid gray;
+}
+
+nav.main li:nth-child(1) a.active {
+    border-left-color: rgb(34, 154, 34);
+}
+nav.main li:nth-child(2) a.active {
+    border-left-color: rgb(64, 64, 184);
+}
+nav.main li:nth-child(3) a.active {
+    border-left-color: rgb(176, 112, 16);
+}
+nav.main li:nth-child(4) a.active {
+    border-left-color: rgb(220, 50, 84);
+}
+nav.main li:nth-child(5) a.active {
+    border-left-color: rgb(220, 50, 84);
+}

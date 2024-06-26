@@ -1,0 +1,12 @@
+footer span {
+    margin-left: 10px;
+    color: crimson;
+}
+footer p {
+    padding-top: 10px;
+    padding-bottom: 7px;
+    font-size: 14px;
+}
+footer h6 {
+    padding-top: 10px;
+}
