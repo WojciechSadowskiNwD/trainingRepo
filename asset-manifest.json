@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trainingRepo/static/css/main.60d33b3a.css",
+    "main.js": "/trainingRepo/static/js/main.38c6ba39.js",
+    "static/media/header1.jpg": "/trainingRepo/static/media/header1.e210d6237c4df53a92ae.jpg",
+    "static/media/header3.jpg": "/trainingRepo/static/media/header3.1b8172a4f8d865e14fe5.jpg",
+    "static/media/header2.jpg": "/trainingRepo/static/media/header2.26d6661b147a114ff1c9.jpg",
+    "index.html": "/trainingRepo/index.html",
+    "main.60d33b3a.css.map": "/trainingRepo/static/css/main.60d33b3a.css.map",
+    "main.38c6ba39.js.map": "/trainingRepo/static/js/main.38c6ba39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d33b3a.css",
+    "static/js/main.38c6ba39.js"
+  ]
+}
